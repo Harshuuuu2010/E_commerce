@@ -10,4 +10,4 @@
 
 
   >>### Feature of DataBase
-  * The E-commerce database features a collection of fashion products with details such as name, description, image, rating, and available sizes. Each product is uniquely identified by an ID and can be associated with various brands. The database enables efficient storage and retrieval of information for a seamless online shopping experience.
+  * Collection of fashion products with details such as name, description, image, rating, and available sizes. Each product is uniquely identified by an ID and can be associated with various brands. The database enables efficient storage and retrieval of information for a seamless online shopping experience.
